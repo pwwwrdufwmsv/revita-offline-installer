@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+In this fast paced twin-stick roguelite platformer, you play as an unnamed child ascending an ominous clocktower in pursuit of their lost memories. Harvest and sacrifice souls to grow your power in order to challenge procedural encounter rooms and intimidating bosses!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 (version 1607 or better) | macOS 11.0 or later |
+| **Processor** | 64bit 1.5 GHz CPU | Intel Core i5 / Apple M1 |
+| **Memory** | 2048 MB RAM | 2048 MB RAM |
+| **Graphics** | DirectX® 10 compliant graphics card and driver | Metal-capable GPU |
+| **DirectX** | Version 10 | Version 10 |
+| **Storage** | 250 MB available space | 250 MB available space |
+| **Sound Card** | TBA | TBA |
+| **Additional Notes** | TBA | TBA |
 
 ---
 
